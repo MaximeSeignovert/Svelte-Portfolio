@@ -2,7 +2,7 @@
     export let title = "Titre par défaut";
     export let description = "Description par défaut";
     export let date = "Date par défaut";
-    export let lieu = "Paris 75000";
+    export let lieu = "Ville 99000";
     export let entreprise = "Entreprise par défaut";
     /**
      * @type {any[]}
@@ -24,4 +24,3 @@
         </ul>
       </div>
     </a>
-  

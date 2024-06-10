@@ -52,6 +52,4 @@
       toast.error('Une erreur s\'est produite lors de l\'envoi du message.', {style: toastDefaultStyle,position: "bottom-right",duration: 2000});
     }
   };
-
-  
 </script>

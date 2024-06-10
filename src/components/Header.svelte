@@ -36,9 +36,7 @@
 
 
 <style lang="postcss">
-
   li a {
-    
     margin: 14px 16px;
     display: inline-block;
     padding-bottom:2px;
@@ -56,6 +54,4 @@
     background-position: 100% 100%; /*OR bottom right*/
     background-size: 100% 2px;
   }
-
-
 </style>
