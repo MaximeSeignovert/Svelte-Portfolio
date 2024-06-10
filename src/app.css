@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+  :root{
+    --main-background-color : #dfdfdf;
+    --main-foreground-color : #242424;
+    --main-accentuation-color: #7c3aed;
+  }
+  .dark{
+    --main-background-color : #242424;
+    --main-foreground-color : #dfdfdf;
+    --main-accentuation-color:#6d28d9;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--main-background-color);
+  }
+  section {
+    width: 100%;
+    box-sizing: border-box;
+    min-height: 80vh;
+    background-color: var(--main-background-color);
+    color:var(--main-foreground-color);
+  }
+
+  

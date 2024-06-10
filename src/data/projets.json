@@ -1,0 +1,39 @@
+[
+    {
+      "title": "MineSweeper",
+      "date": "Fin 2023",
+      "description": "Application de démineur développé durant ma 3ème année de BUT. Liaison avec Firebase et authentification. Utilisation de Riverpod",
+      "tags": ["Flutter", "Firebase", "Riverpod"],
+      "lien":""
+    },
+    {
+        "title": "Holdem Planning",
+        "date": "Mars 2024",
+        "description": "Application de suivi du temps des fiches pour les planning poker.",
+        "tags": ["React", "Javascript", "Tailwind", "Shadcn", "Vercel"],
+        "lien":""
+      },
+      {
+        "title": "API BlackMarket",
+        "date": "Fin 2023",
+        "description": "API Swagger réalisé lors de la 3ème année de BUT afin de créer un marché noir pour l'application Tour of Heroes.",
+        "tags": ["Nodejs", "Express", "Swagger"],
+        "lien":""
+      },
+      {
+        "title": "Tour of heroes",
+        "date": "Fin 2023",
+        "description": "Application web servant de tutoriel Angular, lié à l'API BlackMarket, avec n systeme de combat et d'économie.",
+        "tags": ["Angular", "Firebase", "Javascript"],
+        "lien":""
+      },
+      {
+        "title": "Portfolio svelte",
+        "date": "Juin 2024",
+        "description": "Portfolio réalisé en svelte",
+        "tags": ["Svelte", "Javascript", "Tailwind"],
+        "lien":""
+      }
+    
+  ]
+  

@@ -1,0 +1,39 @@
+[
+    {
+      "title": "Alternant Développeur logiciel",
+      "date": "Juillet 2023 à Juillet 2024",
+      "lieu": "Gières",
+      "entreprise": "Horizontal Software",
+      "description": "Développement curratif et évolutif sur l'application SIRH (Système d'Information de gestion des Ressources Humaines) eConnection. Développement d'une API. Refonte graphique de l'application.",
+      "tags": ["Agile", "Javascript", "C#", ".NET"],
+      "lien":"https://www.groupehsw.com/gestion-des-temps-et-des-activites"
+    },
+    {
+      "title": "Agent Contractuel",
+      "date": "Septembre à Novembre 2022",
+      "lieu": "Valence",
+      "entreprise": "DGFIP (SPFE)",
+      "description": "Travail administratif au service de la publicité foncière et travail sur application assurance-vie au service d’enregistrement.",
+      "tags": [],
+      "lien":"https://www.drome.gouv.fr/Services-de-l-Etat/Economie.-finances-publiques/Direction-departementale-des-finances-publiques-DDFiP/Informations-generales-DDFIP"
+    },
+    {
+      "title": "Stage Développeur C#",
+      "date": "Avril à juillet 2021",
+      "lieu": "Pouilly-en-Auxois",
+      "entreprise": "Immunodiagnostic Systems",
+      "description": "Refonte de la partie “journalisation applicative” d’un logiciel de supervision de machine de diagnostic in vitro. Recueil du besoin utilisateur, Développement, Test unitaire.",
+      "tags": [".NET5", "WPF", "MVVM", "OOP","AOP"],
+      "lien":"https://www.idsplc.com/company-overview/"
+    },
+    {
+      "title": "Agent Vacataire",
+      "date": "Été 2019",
+      "lieu": "Valence",
+      "entreprise": "DGFIP",
+      "description": "J’ai eu la charge de gérer les remboursements partiels de la taxe intérieure de consommation sur les produits énergétiques (TICPE) et de la taxe intérieure de consommation sur le gaz naturel (TICGN).",
+      "tags": [""],
+      "lien":"https://www.drome.gouv.fr/Services-de-l-Etat/Economie.-finances-publiques/Direction-departementale-des-finances-publiques-DDFiP/Informations-generales-DDFIP"
+    }
+  ]
+  
