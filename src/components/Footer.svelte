@@ -1,4 +1,4 @@
-<footer class="bg-gray-800 text-white p-5 flex justify-around items-start">
+<footer class="w-[100vw] bg-gray-800 text-white p-5 flex justify-around items-start">
     <div>
       <h3 class="text-lg mb-[10px]">Adresse</h3>
       <p class='my-[5px]'>123 Rue de la Programmation</p>

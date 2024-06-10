@@ -1,7 +1,7 @@
 <section>
   <h2 class="text-2xl font-semibold pb-5 text-center" id="contact">Contact me</h2>
     <!-- Contenu de la section Contact -->
-    <div class="max-w-[600px] my-0 mx-auto p-[20px]">
+    <div class="max-w-[600px] my-0 mx-auto mb-[20px] p-[20px]">
       <form on:submit|preventDefault={submitForm} class="flex flex-col">
         <label class="mb-[5px]" for="name">Nom :</label>
         <input class="mb-[15px] p-[10px] rounded text-black" type="text" id="name" bind:value={formData.name} required>
