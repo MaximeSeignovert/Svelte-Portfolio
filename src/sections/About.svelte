@@ -8,11 +8,11 @@
     <img class="hidden sm:block mt-5 ml-5 w-[75px] h-[75px]" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Robot"/>
   </div>
   <div class="sm:w-[40%]">
-    <p class="text-lg mb-4">Bienvenue sur mon portfolio ! Je suis développeur logiciel passionné et expérimenté, actuellement basé à Grenoble.<br>
+    <p class="text-lg mb-4">Bienvenue sur mon portfolio ! Je suis développeur logiciel passionné actuellement basé à Grenoble.<br>
       
       J'ai eu l'opportunité de travailler sur une variété de projets stimulants.<br></p>
 
-      <p class="text-lg mb-4">Mon expertise s'étend sur divers langages de programmation et technologies, notamment Javascript, C#/.NET, React, Python, Node.js, etc.
+      <p class="text-lg mb-4">Mon experience en tant que développeur s'étend sur divers langages de programmation et technologies, notamment Javascript, C#/.NET, React, Python, Node.js, etc.
       
       Ce qui me distingue en tant que développeur, c'est mon engagement envers la qualité, la créativité et la collaboration. Je suis convaincu que la réussite d'un projet réside dans l'écoute des besoins, la compréhension des enjeux et la proposition de solutions innovantes et adaptées.</p>
       
