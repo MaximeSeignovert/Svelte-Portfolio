@@ -25,13 +25,13 @@
         "date": "Fin 2023",
         "description": "Application web servant de tutoriel Angular, lié à l'API BlackMarket, avec n systeme de combat et d'économie.",
         "tags": ["Angular", "Firebase", "Javascript"],
-        "lien":""
+        "lien":"https://tour-of-heroes-6dc62.web.app/"
       },
       {
         "title": "Portfolio svelte",
         "date": "Juin 2024",
         "description": "Portfolio réalisé en svelte",
-        "tags": ["Svelte", "Javascript", "Tailwind"],
+        "tags": ["Svelte", "Javascript", "Tailwind", "Vercel"],
         "lien":"https://github.com/MaximeSeignovert/Svelte-Portfolio"
       }
     
