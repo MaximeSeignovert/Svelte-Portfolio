@@ -11,7 +11,7 @@
       "title": "Holdem Planning",
       "date": "Mars 2024",
       "description": "Application de suivi du temps des fiches pour les planning poker.",
-      "tags": ["React", "Javascript", "Tailwind", "Shadcn", "Vercel"],
+      "tags": ["React", "Javascript", "Tailwind", "Shadcn"],
       "lien":"https://poker-timer-alpha.vercel.app/",
       "lienImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
     },
@@ -34,8 +34,8 @@
     {
       "title": "Portfolio svelte",
       "date": "Juin 2024",
-      "description": "Portfolio réalisé en svelte",
-      "tags": ["Svelte", "Javascript", "Tailwind", "Vercel"],
+      "description": "Portfolio personnel en svelte présentant mes différents projets et experience.",
+      "tags": ["Svelte", "Javascript", "Tailwind"],
       "lien":"https://github.com/MaximeSeignovert/Svelte-Portfolio",
       "lienImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Svelte_logo_by_gengns.svg/640px-Svelte_logo_by_gengns.svg.png"
     }
