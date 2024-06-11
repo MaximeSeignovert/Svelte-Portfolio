@@ -2,7 +2,7 @@
 <h2 id="about" class="text-2xl font-semibold pb-5 text-center">About Me</h2>
 
 <div class="flex justify-center align-center flex-col sm:flex-row w-[100%]">
-  <div class=" w-[30%] ml-[7vw] h-fit top-[10px] max-sm:mb-5 sm:mr-5">
+  <div class=" w-[30%]  h-fit top-[10px] max-sm:mb-5 sm:mr-5">
     <h3 class="font-bold tracking-tighter text-5xl ">Maxime Seignovert</h3>
     <p>Développeur logiciel Junior</p>
     <img class="hidden sm:block mt-5 ml-5 w-[75px] h-[75px]" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Robot"/>

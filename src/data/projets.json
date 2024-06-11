@@ -4,36 +4,40 @@
       "date": "Fin 2023",
       "description": "Application de démineur développé durant ma 3ème année de BUT. Liaison avec Firebase et authentification. Utilisation de Riverpod",
       "tags": ["Flutter", "Firebase", "Riverpod"],
-      "lien":"https://flutter-minesweeper-d7574.web.app/"
+      "lien":"https://flutter-minesweeper-d7574.web.app/",
+      "lienImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png"
     },
     {
-        "title": "Holdem Planning",
-        "date": "Mars 2024",
-        "description": "Application de suivi du temps des fiches pour les planning poker.",
-        "tags": ["React", "Javascript", "Tailwind", "Shadcn", "Vercel"],
-        "lien":"https://poker-timer-alpha.vercel.app/"
-      },
-      {
-        "title": "API BlackMarket",
-        "date": "Fin 2023",
-        "description": "API Swagger réalisé lors de la 3ème année de BUT afin de créer un marché noir pour l'application Tour of Heroes.",
-        "tags": ["Nodejs", "Express", "Swagger"],
-        "lien":"https://github.com/MaximeSeignovert/BlackMarket"
-      },
-      {
-        "title": "Tour of heroes",
-        "date": "Fin 2023",
-        "description": "Application web servant de tutoriel Angular, lié à l'API BlackMarket, avec n systeme de combat et d'économie.",
-        "tags": ["Angular", "Firebase", "Javascript"],
-        "lien":"https://tour-of-heroes-6dc62.web.app/"
-      },
-      {
-        "title": "Portfolio svelte",
-        "date": "Juin 2024",
-        "description": "Portfolio réalisé en svelte",
-        "tags": ["Svelte", "Javascript", "Tailwind", "Vercel"],
-        "lien":"https://github.com/MaximeSeignovert/Svelte-Portfolio"
-      }
-    
+      "title": "Holdem Planning",
+      "date": "Mars 2024",
+      "description": "Application de suivi du temps des fiches pour les planning poker.",
+      "tags": ["React", "Javascript", "Tailwind", "Shadcn", "Vercel"],
+      "lien":"https://poker-timer-alpha.vercel.app/",
+      "lienImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+    },
+    {
+      "title": "API BlackMarket",
+      "date": "Fin 2023",
+      "description": "API Swagger réalisé lors de la 3ème année de BUT afin de créer un marché noir pour l'application Tour of Heroes.",
+      "tags": ["Nodejs", "Express", "Swagger"],
+      "lien":"https://github.com/MaximeSeignovert/BlackMarket",
+      "lienImage":"https://cdn-icons-png.flaticon.com/512/5968/5968322.png"
+    },
+    {
+      "title": "Tour of heroes",
+      "date": "Fin 2023",
+      "description": "Application web servant de tutoriel Angular, lié à l'API BlackMarket, avec n systeme de combat et d'économie.",
+      "tags": ["Angular", "Firebase", "Javascript"],
+      "lien":"https://tour-of-heroes-6dc62.web.app/",
+      "lienImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"
+    },
+    {
+      "title": "Portfolio svelte",
+      "date": "Juin 2024",
+      "description": "Portfolio réalisé en svelte",
+      "tags": ["Svelte", "Javascript", "Tailwind", "Vercel"],
+      "lien":"https://github.com/MaximeSeignovert/Svelte-Portfolio",
+      "lienImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Svelte_logo_by_gengns.svg/640px-Svelte_logo_by_gengns.svg.png"
+    }
   ]
   
