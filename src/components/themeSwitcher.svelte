@@ -1,15 +1,12 @@
 <script>
-    import { currentTheme } from '../scripts/themeStore';
+  import { currentTheme } from '../scripts/themeStore';
   import { onMount } from 'svelte';
+  import themes from '../data/theme.json';
 
-  let themes = [];
   let selectedTheme = '';
 
   // Charger les thèmes depuis le fichier JSON
   async function loadThemes() {
-    const response = await fetch('src/data/theme.json');
-    themes = await response.json();
-    console.log(themes)
 
     // Initialiser le thème sélectionné
     if (themes.length > 0) {
