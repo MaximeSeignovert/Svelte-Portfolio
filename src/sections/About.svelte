@@ -5,7 +5,6 @@
   <div class=" w-[30%]  h-fit top-[10px] max-sm:mb-5 sm:mr-5">
     <h3 class="font-bold tracking-tighter text-5xl ">Maxime Seignovert</h3>
     <p>Développeur logiciel Junior</p>
-    <img class="hidden sm:block mt-5 ml-5 w-[75px] h-[75px]" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Robot"/>
   </div>
   <div class="sm:w-[40%]">
     <p class="text-lg mb-4">Bienvenue sur mon portfolio ! Je suis développeur logiciel passionné actuellement basé à Grenoble.<br>

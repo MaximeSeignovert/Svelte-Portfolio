@@ -12,6 +12,6 @@
       </ul>
     </div>
     <div >
-      <p class="flex flex-row flex-justify cursor-pointer my-[5px]">Made With 🧡 Powered by <img class="w-4 ml-2" alt="Icone Svelte" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"/></p>
+      <p class="flex flex-row flex-justify cursor-pointer my-[5px]">Made With 💜 Powered by <img class="w-4 ml-2 backdrop-filter-" alt="Icone Svelte" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"/></p>
     </div>
   </footer>

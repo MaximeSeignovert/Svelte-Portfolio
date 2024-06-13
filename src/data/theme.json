@@ -1,0 +1,39 @@
+[
+    {
+        "Name": "👽 Alien",
+        "darkColor": "#22c55e",
+        "lightColor": "#16a34a",
+        "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png"
+    },
+    {
+        "Name": "👾 SpaceInvader",
+        "darkColor": "#6d28d9",
+        "lightColor": "#7c3aed",
+        "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png"
+    },
+    {
+        "Name": "🐳 Whale",
+        "darkColor": "#3b82f6",
+        "lightColor": "#2563eb",
+        "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png"
+    },
+    {
+        "Name": "🦧 Orangutan",
+        "darkColor": "#ea580c",
+        "lightColor": "#ef6e15",
+        "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Orangutan.png"
+    },
+    {
+        "Name": "👹 Ogre",
+        "darkColor": "#e11d48",
+        "lightColor": "#e11d48",
+        "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ogre.png"
+    },
+    {
+        "Name": "📎 Clippy",
+        "darkColor": "#e11d48",
+        "lightColor": "#e11d48",
+        "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png"
+    }
+  ]
+  

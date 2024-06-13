@@ -6,12 +6,14 @@
   :root{
     --main-background-color : #dfdfdf;
     --main-foreground-color : #242424;
-    --main-accentuation-color: #7c3aed;
+    --light-accentuation-color: #7c3aed;
+    --main-accentuation-color: var(--light-accentuation-color);
   }
   .dark{
     --main-background-color : #242424;
     --main-foreground-color : #dfdfdf;
-    --main-accentuation-color:#6d28d9;
+    --dark-accentuation-color : #6d28d9;
+    --main-accentuation-color: var(--dark-accentuation-color);
   }
   body {
     width: 100%;

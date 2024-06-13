@@ -7,19 +7,23 @@
     import Footer from '../components/Footer.svelte';
     import ScrollToTop from '../components/scrollToTop.svelte';
     import ScrollDown from '../components/scrollDown.svelte';
+    import StickyImage from '../components/stickyImage.svelte';
   </script>
   
   <main class="" >
     <Header />
     <ScrollDown />
-  
+    <StickyImage />
     <About />
     <Experience />
     <Projects />
     <Contact />
-  
+    
+    
     <Footer />
     <ScrollToTop />
+
+    
   </main>
   
 <style lang="postcss">
