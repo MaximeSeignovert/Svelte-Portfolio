@@ -12,7 +12,7 @@
       "date": "Mars 2024",
       "description": "Application de suivi du temps des fiches pour les planning poker.",
       "tags": ["React", "Javascript", "Tailwind", "Shadcn"],
-      "lien":"https://poker-timer-alpha.vercel.app/",
+      "lien":"https://holdem-planning.vercel.app/",
       "lienImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
     },
     {

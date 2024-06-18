@@ -1,15 +1,15 @@
 [
     {
-        "Name": "👽 Alien",
-        "darkColor": "#22c55e",
-        "lightColor": "#16a34a",
-        "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png"
-    },
-    {
         "Name": "👾 SpaceInvader",
         "darkColor": "#6d28d9",
         "lightColor": "#7c3aed",
         "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png"
+    },
+    {
+        "Name": "👽 Alien",
+        "darkColor": "#22c55e",
+        "lightColor": "#16a34a",
+        "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png"
     },
     {
         "Name": "🐳 Whale",
