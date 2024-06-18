@@ -17,7 +17,7 @@
 </script>
 
 <div id="div-header" class="hidden sm:flex z-20 justify-center sticky top-0 text-[var(--main-foreground-color)] drop-shadow font-medium overflow-x-hidden">
-  <nav class="flex justify-between w-[100vw] bg-[var(--main-background-color)] ">
+  <nav class="flex justify-between w-[100vw] bg-[--main-background-color] ">
     <ul class="flex justify-start">
       <li><a class="hover:text-[var(--main-accentuation-color)]" href="#about" on:click={(event) => scrollToSection('about', event, 80)}>About Me</a></li>
       <li><a class="hover:text-[var(--main-accentuation-color)]" href="#experience" on:click={(event) => scrollToSection('experience', event, 80)}>Experience</a></li>
