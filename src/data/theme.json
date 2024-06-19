@@ -13,7 +13,7 @@
         "Name": "Alien",
         "darkColor": "#22c55e",
         "lightColor": "#16a34a",
-        "textLight":"#ffffff",
+        "textLight":"#000000",
         "textDark":"#000000",
         "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png"
     },
@@ -54,15 +54,6 @@
         "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png"
     },
     {
-        "emoji":"🚠",
-        "Name": "Mountain Cableway",
-        "darkColor": "#ea580c",
-        "lightColor": "#ef6e15",
-        "textLight":"#000",
-        "textDark":"#000",
-        "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Mountain%20Cableway.png"
-    },
-    {
         "emoji":"🪐",
         "Name": "Saturn",
         "darkColor": "#ea580c",
@@ -70,15 +61,6 @@
         "textLight":"#000",
         "textDark":"#000",
         "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png"
-    },
-    {
-        "emoji":"⌚",
-        "Name": "Watch",
-        "darkColor": "#3b82f6",
-        "lightColor": "#2563eb",
-        "textLight":"#ffffff",
-        "textDark":"#000000",
-        "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Watch.png"
     }
   ]
   
