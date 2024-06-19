@@ -2,8 +2,9 @@
   import { scrollToSection } from '../scripts/utils.js';
   import Fa from 'svelte-fa'
   import { faMoon, faSun } from '@fortawesome/free-solid-svg-icons'
-  let darkMode = false; // état initial du thème
+  import { onMount } from 'svelte';
 
+  let darkMode = false; // état initial du thème
 
   const toggleTheme = () => {
     darkMode = !darkMode;
@@ -13,6 +14,14 @@
       document.documentElement.classList.remove('dark');
     }
   };
+
+  onMount(() => {
+    darkMode = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    if(darkMode){
+      document.documentElement.classList.add('dark');
+    }
+  });
+
 </script>
 
 <div id="div-header" class="hidden sm:flex z-20 justify-center sticky top-0 text-[var(--main-foreground-color)] drop-shadow font-medium overflow-x-hidden">
