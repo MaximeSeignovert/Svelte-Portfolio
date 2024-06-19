@@ -10,7 +10,7 @@
     export let lienImage = "";
   </script>
   
-    <div class="z-10 p-5 max-w-[500px] my-5 sm:mx-5 bg-white/30 dark:bg-gray-/30 backdrop-blur rounded-lg shadow transition hover:scale-105">
+    <div class="z-10 p-5 max-w-[500px] my-5 sm:mx-5 bg-white/30 dark:bg-black/30 backdrop-blur rounded-lg shadow transition hover:scale-105">
         <div class="flex items-center mb-2">
           <img src={lienImage} class="w-[40px] mr-2 h-auto drop-shadow-lg" alt="">
           <a href="{lien}" target="_blank" ><p class="text-xl font-semibold hover:underline">{title}</p></a>
@@ -19,7 +19,7 @@
         <p class="mb-4 text-base dark:text-gray-300 text-gray-700">{description}</p>
         <ul class="flex list-inside">
           {#each tags as tag}
-            <li class="text-base mx-1 px-1 bg-[var(--main-accentuation-color)] text-white rounded ">{tag}</li>
+            <li class="text-base mx-1 px-1 dark:text-[--dark-foreground-color] text-[--light-foreground-color] bg-[var(--main-accentuation-color)] rounded">{tag}</li>
           {/each}
         </ul>
       </div>

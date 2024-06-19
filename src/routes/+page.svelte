@@ -8,6 +8,8 @@
     import ScrollToTop from '../components/scrollToTop.svelte';
     import ScrollDown from '../components/scrollDown.svelte';
     import StickyImage from '../components/stickyImage.svelte';
+
+    
   </script>
   
   <main class="" >

@@ -2,11 +2,11 @@
 <h2 id="about" class="text-2xl font-semibold pb-5 text-center">About Me</h2>
 
 <div class="flex justify-center align-center flex-col sm:flex-row w-[100%]">
-  <div class=" w-[30%]  h-fit top-[10px] max-sm:mb-5 sm:mr-5">
+  <div class=" w-[80%] sm:w-[40%]  h-fit top-[10px] max-sm:mb-5 sm:mr-5">
     <h3 class="font-bold tracking-tighter text-5xl ">Maxime Seignovert</h3>
     <p>Développeur logiciel Junior</p>
   </div>
-  <div class="sm:w-[40%]">
+  <div class="sm:w-[50%]">
     <p class="text-lg mb-4">Bienvenue sur mon portfolio ! Je suis développeur logiciel passionné actuellement basé à Grenoble.<br>
       
       J'ai eu l'opportunité de travailler sur une variété de projets stimulants.<br></p>

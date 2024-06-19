@@ -2,7 +2,6 @@
   import { scrollToSection } from '../scripts/utils.js';
   import Fa from 'svelte-fa'
   import { faMoon, faSun } from '@fortawesome/free-solid-svg-icons'
-  import ThemeSwitcher from '../components/themeSwitcher.svelte';
   let darkMode = false; // état initial du thème
 
 
@@ -26,7 +25,7 @@
     </ul>
   
     <div class="flex items-center">
-      <ThemeSwitcher />
+     
       <button class="pr-[15px] hover:text-[var(--main-accentuation-color)]" id="button-light-mode" on:click={toggleTheme}>
         {#if darkMode}
           <Fa icon={faSun} />

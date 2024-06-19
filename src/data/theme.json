@@ -1,38 +1,56 @@
 [
     {
-        "Name": "👾 SpaceInvader",
+        "emoji":"👾",
+        "Name": "SpaceInvader",
         "darkColor": "#6d28d9",
         "lightColor": "#7c3aed",
+        "textLight":"#ffffff",
+        "textDark":"#ffffff",
         "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png"
     },
     {
-        "Name": "👽 Alien",
+        "emoji":"👽",
+        "Name": "Alien",
         "darkColor": "#22c55e",
         "lightColor": "#16a34a",
+        "textLight":"#ffffff",
+        "textDark":"#000000",
         "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png"
     },
     {
-        "Name": "🐳 Whale",
+        "emoji":"🐳",
+        "Name": "Whale",
         "darkColor": "#3b82f6",
         "lightColor": "#2563eb",
+        "textLight":"#ffffff",
+        "textDark":"#000000",
         "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png"
     },
     {
-        "Name": "🦧 Orangutan",
+        "emoji":"🦧",
+        "Name": "Orangutan",
         "darkColor": "#ea580c",
         "lightColor": "#ef6e15",
+        "textLight":"#ffffff",
+        "textDark":"#ffffff",
         "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Orangutan.png"
     },
     {
-        "Name": "👹 Ogre",
+        "emoji":"👹",
+        "Name": "Ogre",
         "darkColor": "#e11d48",
         "lightColor": "#e11d48",
+        "textLight":"#ffffff",
+        "textDark":"#ffffff",
         "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ogre.png"
     },
     {
-        "Name": "📎 Clippy",
-        "darkColor": "#e11d48",
-        "lightColor": "#e11d48",
+        "emoji":"📎",
+        "Name": "Clippy",
+        "darkColor": "#dc2626",
+        "lightColor": "#dc2626",
+        "textLight":"#ffffff",
+        "textDark":"#ffffff",
         "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png"
     }
   ]
