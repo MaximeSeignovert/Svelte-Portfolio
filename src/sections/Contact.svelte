@@ -12,7 +12,7 @@
         <label class="mb-[5px]" for="message">Message :</label>
         <textarea class="max-h-[200px] mb-[15px] p-[10px] rounded text-black ring-[--main-accentuation-color] focus:ring-2 outline-none" id="message" bind:value={formData.message} required></textarea>
     
-        <button class="bg-[var(--main-accentuation-color)] text-white p-2.5 cursor-pointer rounded shadow hover:opacity-80" type="submit">Envoyer</button>
+        <button class="bg-[var(--main-accentuation-color)] dark:text-[--dark-foreground-color] text-[--light-foreground-color] p-2.5 cursor-pointer rounded shadow hover:opacity-80" type="submit">Envoyer</button>
       </form>
     </div>  
     <Toaster />
