@@ -39,13 +39,15 @@
     });
   
     // Points de contrôle définissant le chemin et la rotation
-    const pathPoints = [
+    let pathPoints = [
       { x: 15, y: 40, rotation: 0 },//About
       { x: 10, y: 20, rotation: 45 }, // Experience
       { x: 50, y: 20, rotation: 90 }, // Projets
       { x: 75, y: 50, rotation: 135 }, // Contact
       { x: 80, y: 40, rotation: 360 } // Footer
     ];
+
+    
   
     // Fonction d'interpolation linéaire
     function lerp(a, b, t) {
