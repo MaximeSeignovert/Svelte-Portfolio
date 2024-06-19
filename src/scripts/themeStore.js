@@ -43,3 +43,7 @@ function applyTheme(theme) {
 if (typeof document !== 'undefined') {
   applyTheme(initialTheme);
 }
+
+export function changeToRandomTheme(){
+  changeTheme(getRandomTheme(themes));
+}
