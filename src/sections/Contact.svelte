@@ -10,7 +10,7 @@
         <input class="mb-[15px] p-[10px] rounded text-black ring-[--main-accentuation-color] focus:ring-2 outline-none" type="email" id="email" bind:value={formData.email} required>
     
         <label class="mb-[5px]" for="message">Message :</label>
-        <textarea class="mb-[15px] p-[10px] rounded text-black ring-[--main-accentuation-color] focus:ring-2 outline-none" id="message" bind:value={formData.message} required></textarea>
+        <textarea class="max-h-[200px] mb-[15px] p-[10px] rounded text-black ring-[--main-accentuation-color] focus:ring-2 outline-none" id="message" bind:value={formData.message} required></textarea>
     
         <button class="bg-[var(--main-accentuation-color)] text-white p-2.5 cursor-pointer rounded shadow hover:opacity-80" type="submit">Envoyer</button>
       </form>
