@@ -84,7 +84,7 @@
       {#each themes as theme}
         <button 
           title="{theme.Name}"
-          class="text-base hover:scale-110 min-w-[20px] m-1 px-1 dark:text-white text-black dark:bg-black/90 bg-white/90 shadow rounded"
+          class="text-base hover:scale-110 min-w-[20px] m-1 px-1 dark:text-white text-black dark:bg-gray-600/90 bg-white/90 shadow rounded"
           on:click={() => changeTheme(theme)}>
           {theme.emoji}
         </button>
