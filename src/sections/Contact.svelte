@@ -4,13 +4,13 @@
     <div class="max-w-[600px] my-0 mx-auto mb-[20px] p-[20px]">
       <form on:submit|preventDefault={submitForm} class="flex flex-col">
         <label class="mb-[5px]" for="name">Nom :</label>
-        <input class="mb-[15px] p-[10px] rounded text-black ring-[--main-accentuation-color] focus:ring-2 outline-none" type="text" id="name" bind:value={formData.name} required>
+        <input class="mb-[15px] p-[10px] rounded text-black dark:text-white bg-white/30 dark:bg-gray-600/30 shadow ring-[--main-accentuation-color] focus:ring-2 outline-none" type="text" id="name" bind:value={formData.name} required>
     
         <label class="mb-[5px]" for="email">E-mail :</label>
-        <input class="mb-[15px] p-[10px] rounded text-black ring-[--main-accentuation-color] focus:ring-2 outline-none" type="email" id="email" bind:value={formData.email} required>
+        <input class="mb-[15px] p-[10px] rounded text-black dark:text-white bg-white/30 dark:bg-gray-600/30 shadow ring-[--main-accentuation-color] focus:ring-2 outline-none" type="email" id="email" bind:value={formData.email} required>
     
         <label class="mb-[5px]" for="message">Message :</label>
-        <textarea class="max-h-[200px] mb-[15px] p-[10px] rounded text-black ring-[--main-accentuation-color] focus:ring-2 outline-none" id="message" bind:value={formData.message} required></textarea>
+        <textarea class="max-h-[200px] mb-[15px] p-[10px] rounded text-black dark:text-white bg-white/30 dark:bg-gray-600/30 shadow ring-[--main-accentuation-color] focus:ring-2 outline-none" id="message" bind:value={formData.message} required></textarea>
     
         <button class="bg-[var(--main-accentuation-color)] dark:text-[--dark-foreground-color] text-[--light-foreground-color] p-2.5 cursor-pointer rounded shadow hover:opacity-80" type="submit">Envoyer</button>
       </form>

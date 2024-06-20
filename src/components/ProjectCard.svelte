@@ -10,7 +10,7 @@
     export let lienImage = "";
   </script>
   
-    <div class="z-10 p-5 max-w-[500px] my-5 sm:mx-5 bg-white/30 dark:bg-gray-600/30 backdrop-blur rounded-lg shadow transition hover:scale-105">
+    <div class="flex flex-col justify-around z-10 p-5 max-w-[400px] min-h-[250px] my-5 sm:mx-5 bg-white/30 dark:bg-gray-600/30 backdrop-blur rounded-lg shadow transition hover:scale-105">
         <div class="flex items-center mb-2">
           <img src={lienImage} class="w-[40px] mr-2 h-auto drop-shadow-lg" alt="">
           <a href="{lien}" target="_blank" ><p class="text-xl font-semibold hover:underline">{title}</p></a>
