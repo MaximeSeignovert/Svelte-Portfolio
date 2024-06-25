@@ -3,8 +3,7 @@
     import { writable } from 'svelte/store';
     import { currentTheme, changeTheme } from '../scripts/themeStore';
     import themes from '../data/theme.json';
-    import { scale, draw, crossfade } from 'svelte/transition';
-    import { bounceIn } from 'svelte/easing';
+    import { scale} from 'svelte/transition';
 
     let mouseX = 0,mouseY = 0;
     let themeSelectionShown = false;
