@@ -13,7 +13,7 @@
 
       <p class="text-lg mb-4 text-justify">Mon experience en tant que développeur s'étend sur divers langages de programmation et technologies, notamment <span class="text-[--main-accentuation-color] font-bold">Javascript, C#/.NET, React, Python, Node.js,</span> etc.
       
-      Ce qui me distingue en tant que développeur, c'est mon engagement envers la <span class="text-[--main-accentuation-color] font-bold">qualité</span>, la <span class="text-[--main-accentuation-color] font-bold">créativité</span> et la <span class="text-[--main-accentuation-color] font-bold">collaboration</span>. Je suis convaincu que la réussite d'un projet réside dans l'écoute des besoins, la compréhension des enjeux et la proposition de solutions innovantes et adaptées.</p>
+      Ce qui me distingue en tant que développeur, c'est mon engagement envers la <span class="text-[--main-accentuation-color] font-bold">qualité</span>, la <span class="text-[--main-accentuation-color] font-bold">créativité</span> et la <span class="text-[--main-accentuation-color] font-bold">collaboration</span>.</p>
       
       <p class="text-lg mb-4 text-justify">Je vous invite à parcourir mon portfolio pour découvrir mes réalisations et n'hésitez pas à me <a class="text-[--main-accentuation-color] font-bold hover:underline" href="#contact">contacter</a> si vous avez un projet en tête ou si vous souhaitez simplement échanger. Au plaisir de collaborer avec vous !
       </p>
