@@ -1,5 +1,5 @@
 <section class="p-[20px]">
-<h2 id="about" class="text-2xl font-semibold pb-5 text-center">About Me</h2>
+<h2 id="about" class="text-2xl font-semibold pb-5 text-center">A propos</h2>
 
 <div class="flex justify-center flex-col sm:flex-row w-[100%]">
   <div class="flex flex-col w-[80%] sm:w-[40%]  h-fit top-[10px] max-sm:mb-5 sm:mr-5 sm:pl-10">

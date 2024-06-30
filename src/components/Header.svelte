@@ -27,9 +27,9 @@
 <div id="div-header" class="hidden sm:flex z-20 justify-center sticky top-0 text-[var(--main-foreground-color)] drop-shadow font-medium overflow-x-hidden">
   <nav class="flex justify-between w-[100vw] bg-[--main-background-color] ">
     <ul class="flex justify-start">
-      <li><a class="hover:text-[var(--main-accentuation-color)]" href="#about" on:click={(event) => scrollToSection('about', event, 80)}>About Me</a></li>
+      <li><a class="hover:text-[var(--main-accentuation-color)]" href="#about" on:click={(event) => scrollToSection('about', event, 80)}>A propos</a></li>
       <li><a class="hover:text-[var(--main-accentuation-color)]" href="#experience" on:click={(event) => scrollToSection('experience', event, 80)}>Experience</a></li>
-      <li><a class="hover:text-[var(--main-accentuation-color)]" href="#projects" on:click={(event) => scrollToSection('projects', event, 80)}>Projects</a></li>
+      <li><a class="hover:text-[var(--main-accentuation-color)]" href="#projects" on:click={(event) => scrollToSection('projects', event, 80)}>Projets</a></li>
       <li><a class="hover:text-[var(--main-accentuation-color)]" href="#contact" on:click={(event) => scrollToSection('contact', event, 80)}>Contact</a></li>
     </ul>
   

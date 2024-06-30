@@ -4,7 +4,7 @@
 </script>
 
 <section class="p-[20px]">
-  <h2 id="projects" class="text-2xl font-semibold pb-5 text-center">Projects</h2>
+  <h2 id="projects" class="text-2xl font-semibold pb-5 text-center">Projets</h2>
   <div class="flex flex-row flex-wrap items-center justify-center">
     {#each projets as {title, date, description, tags, lien, lienImage}}
     <ProjectCard {title} {date} {description} {tags} {lien} {lienImage}/>
