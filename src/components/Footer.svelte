@@ -3,7 +3,7 @@
     <div>
       <ul class="list-none flex">
         <li class="px-2 no-underline hover:underline"><a class="text-white" target="_blank" href="https://github.com/MaximeSeignovert">Github</a></li>
-        <li class="px-2 no-underline hover:underline"><a class="text-white" target="_blank" href="https://github.com/MaximeSeignovert">Linkedin</a></li>
+        <li class="px-2 no-underline hover:underline"><a class="text-white" target="_blank" href="https://www.linkedin.com/in/maxime-seignovert-735145317/">Linkedin</a></li>
       </ul>
     </div>
     <div >
