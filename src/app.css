@@ -11,6 +11,8 @@
     --light-accentuation-color: #7c3aed;
     --main-accentuation-color: var(--light-accentuation-color);
     --light-foreground-color: #000000;
+
+    --scrollbar-thumb-color: #B1B1B1;
   }
   .dark{
     --main-background-color : #242424;
@@ -20,6 +22,8 @@
     --dark-accentuation-color : #6d28d9;
     --main-accentuation-color: var(--dark-accentuation-color);
     --dark-foreground-color: #ffffff;
+
+    --scrollbar-thumb-color: #303337;
   }
   body {
     width: 100%;
@@ -36,4 +40,13 @@
     color:var(--main-foreground-color);
   }
 
-  
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background-color: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar-thumb-color);
+    border-radius: 5px;
+  }
