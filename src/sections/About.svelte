@@ -6,7 +6,7 @@
     <h3 class="font-bold tracking-tighter text-5xl ">Maxime Seignovert</h3>
     <p class="text-[--main-accentuation-color] font-bold">Développeur logiciel Junior</p>
   </div>
-  <div class="sm:w-[50%] sm:pr-[75px]">
+  <div class="z-10 sm:w-[50%] sm:pr-[75px]">
     <p class="text-lg mb-4 text-justify">Bienvenue sur mon portfolio ! Je suis <span class="text-[--main-accentuation-color] font-bold">développeur</span> logiciel passionné actuellement basé à Grenoble.<br>
       
       J'ai eu l'opportunité de travailler sur une variété de projets stimulants.<br></p>
