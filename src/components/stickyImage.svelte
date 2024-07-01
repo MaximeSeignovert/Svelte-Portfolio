@@ -69,7 +69,6 @@
       const y = lerp (startY, endY,localPercentage)+'px';
       
       const rotation = lerp(start.rotation, end.rotation, localPercentage);
-      console.log({ x, y, rotation })
       return { x, y, rotation };
   }
 </script>

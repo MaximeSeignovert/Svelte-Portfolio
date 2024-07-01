@@ -24,6 +24,13 @@
 
 </script>
 
+<button title="Toggle light/dark mode" class="block sm:hidden absolute right-[5px] top-[5px] pr-[15px] text-[var(--main-foreground-color)] drop-shadow font-medium hover:text-[var(--main-accentuation-color)]" id="button-light-mode" on:click={toggleTheme}>
+  {#if darkMode}
+    <Fa icon={faSun} />
+  {:else}
+    <Fa icon={faMoon} />
+  {/if}
+</button>
 <div id="div-header" class="hidden sm:flex z-20 justify-center sticky top-0 text-[var(--main-foreground-color)] drop-shadow font-medium overflow-x-hidden">
   <nav class="flex justify-between w-[100vw] bg-[--main-background-color] ">
     <ul class="flex justify-start">
