@@ -41,7 +41,7 @@
     </ul>
   
     <div class="flex items-center">
-     
+      
       <button title="Toggle light/dark mode" class="pr-[15px] hover:text-[var(--main-accentuation-color)]" id="button-light-mode" on:click={toggleTheme}>
         {#if darkMode}
           <Fa icon={faSun} />
