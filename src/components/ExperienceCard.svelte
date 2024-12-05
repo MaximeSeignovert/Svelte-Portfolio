@@ -19,7 +19,7 @@
         <p class="mb-4 text-base dark:text-gray-300 text-gray-700">{description}</p>
         <ul class="flex list-inside">
           {#each tags as tag}
-            <li class="text-base mx-1 px-2 dark:text-[--dark-foreground-color] text-[--light-foreground-color] bg-[var(--main-accentuation-color)] rounded">{tag}</li>
+            <li class="text-sm mx-1 px-1 dark:text-[--dark-foreground-color] text-[--light-foreground-color] bg-[var(--main-accentuation-color)] rounded">{tag}</li>
           {/each}
         </ul>
       </div>
