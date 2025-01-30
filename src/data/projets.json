@@ -42,7 +42,7 @@
     {
       "title": "Gravity escape",
       "date": "Septembre 2023",
-      "description": "Jeu video en python réalisé lors de la GameJam de l'IUT2 de Grenoble avec l'équipe Patate 2 foreach.",
+      "description": "Jeu video en python réalisé lors de la GameJam de l'IUT2 de Grenoble avec l'équipe Patate2Foreach.",
       "tags": ["Python", "PyGames", "Jeu"],
       "lien":"https://github.com/patate-de-foreach/GravityEscape",
       "lienImage":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"

@@ -1,11 +1,11 @@
 [
     {
       "title": "Alternant Développeur logiciel",
-      "date": "Juillet 2023 à Juillet 2024",
+      "date": "Juillet 2023 à Maintenant",
       "lieu": "Gières",
       "entreprise": "Horizontal Software",
-      "description": "Développement curratif et évolutif sur l'application SIRH (Système d'Information de gestion des Ressources Humaines) eConnection. Développement d'une API. Refonte graphique de l'application.",
-      "tags": ["Agile", "Javascript", "C#", ".NET"],
+      "description": "Développement curratif et évolutif sur l'application SIRH (Système d'Information de gestion des Ressources Humaines) eConnection. Développement d'une API. Refonte graphique de l'application. Début du développement d'une application mobile en React et .NET.",
+      "tags": ["Agile", "Javascript", "C#", ".NET", "React"],
       "lien":"https://www.groupehsw.com/gestion-des-temps-et-des-activites"
     },
     {
@@ -32,7 +32,7 @@
       "lieu": "Valence",
       "entreprise": "DGFIP",
       "description": "J’ai eu la charge de gérer les remboursements partiels de la taxe intérieure de consommation sur les produits énergétiques (TICPE) et de la taxe intérieure de consommation sur le gaz naturel (TICGN).",
-      "tags": [""],
+      "tags": [],
       "lien":"https://www.drome.gouv.fr/Services-de-l-Etat/Economie.-finances-publiques/Direction-departementale-des-finances-publiques-DDFiP/Informations-generales-DDFIP"
     }
   ]

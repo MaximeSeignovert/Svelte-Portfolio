@@ -52,9 +52,9 @@
 
   // Points de contrôle définissant le chemin et la rotation
   let pathPoints = [
-      { left: '250px', top: '275px', rotation: 0 },    // About
+      { left: '250px', top: '325px', rotation: 0 },    // About
       { left: '150px', top: '350px', rotation: 90 },   // Experience
-      { right: '200px', top: '350px', rotation: 90+45 },  // Projets
+      { right: '200px', top: '350px', rotation: 135 },  // Projets
       { right: '100px', bottom: '300px', rotation: 180 }, // Contact
       { right: '300px', bottom: '300px', rotation: 360 }  // Footer
   ];
