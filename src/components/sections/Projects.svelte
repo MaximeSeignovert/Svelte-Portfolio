@@ -1,8 +1,8 @@
 <script>
-    import SectionLayout from "../components/SectionLayout.svelte";
-    import ProjectCard from "../components/ProjectCard.svelte";
-    import projets from '../data/projets.json';
-    import { fade } from 'svelte/transition';
+    import SectionLayout from "../../components/SectionLayout.svelte";
+    import ProjectCard from "../../components/ProjectCard.svelte";
+    import projets from '../../data/projets.json';
+    import { fade } from 'svelte/transition'; 
     import { SquareArrowOutUpRight  } from 'lucide-svelte';
     
     // Ajout d'une variable pour le projet sélectionné
@@ -15,10 +15,12 @@
     <!-- Liste des projets à gauche -->
     <div class="z-20 w-1/3 space-y-4 overflow-y-auto max-h-[600px]">
       {#each projets as projet}
-        <div 
-          class="z-20 relative cursor-pointer p-4 rounded-lg bg-white/30 dark:bg-gray-600/30 backdrop-blur shadow
+        <button 
+          type="button"
+          class="z-20 relative cursor-pointer p-4 rounded-lg bg-white/30 dark:bg-gray-600/30 backdrop-blur shadow w-full text-left
           {selectedProject === projet ? 'after:absolute after:right-0 after:top-0 after:w-1 after:h-full after:bg-[var(--main-accentuation-color)] after:rounded-r-lg after:transition-all after:duration-300 after:ease-in-out' : ''}"
           on:click={() => selectedProject = projet}
+          aria-pressed={selectedProject === projet}
         >
           <div class="flex items-center">
             <img src="{projet.lienImage}" alt="{projet.title} logo" class="w-8 h-8 mr-4" />
@@ -27,7 +29,7 @@
               <p class="text-base dark:text-gray-400 text-gray-700 transition-colors duration-200">📅 {projet.date}</p>
             </div>
           </div>
-        </div>
+        </button>
       {/each}
     </div>
     

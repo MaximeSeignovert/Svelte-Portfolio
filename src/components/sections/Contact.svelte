@@ -30,7 +30,7 @@
 
 <script>
 	import toast, { Toaster } from 'svelte-french-toast';
-  import SectionLayout from "../components/SectionLayout.svelte";
+  import SectionLayout from "../../components/SectionLayout.svelte";
   let formData = {
     name: '',
     email: '',

@@ -1,7 +1,7 @@
 <script>
-  import SectionLayout from "../components/SectionLayout.svelte";
-  import ExperienceCard from "../components/ExperienceCard.svelte";
-  import experiences from '../data/experiences.json';
+  import SectionLayout from "../../components/SectionLayout.svelte";
+  import ExperienceCard from "../../components/ExperienceCard.svelte";
+  import experiences from '../../data/experiences.json'; 
 </script>
 
 <SectionLayout id="experience" title="Experience">

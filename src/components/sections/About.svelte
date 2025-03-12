@@ -1,6 +1,6 @@
 <script>
-  import { scrollToSection } from "../scripts/utils";
-  import SectionLayout from "../components/SectionLayout.svelte";
+  import { scrollToSection } from "../../scripts/utils";
+  import SectionLayout from "../../components/SectionLayout.svelte";
 </script>
 
 <SectionLayout id="about" title="À propos">
