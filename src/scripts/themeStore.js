@@ -3,7 +3,7 @@ import { writable } from 'svelte/store';
 import themes from '../data/theme.json';
 
 // Store pour le thème actuel
-const initialTheme = getRandomTheme(themes);
+const initialTheme = themes[1];
 export const currentTheme = writable(initialTheme);
 
 // Fonction pour obtenir un thème aléatoire

@@ -61,6 +61,23 @@
         "textLight":"#000",
         "textDark":"#000",
         "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png"
+    },
+    {
+        "emoji":"🦥",
+        "Name": "Sloth",
+        "darkColor": "#689441",
+        "lightColor": "#689441",
+        "textLight":"#000",
+        "textDark":"#000",
+        "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sloth.png"
+    },{
+        "emoji":"🦖",
+        "Name": "T-Rex",
+        "darkColor": "#2ec472",
+        "lightColor": "#2ec472",
+        "textLight":"#ffffff",
+        "textDark":"#ffffff",
+        "imgLink": "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/T-Rex.png"
     }
   ]
   

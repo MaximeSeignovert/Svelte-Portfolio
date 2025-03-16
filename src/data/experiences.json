@@ -4,8 +4,8 @@
       "date": "Juillet 2023 à Maintenant",
       "lieu": "Gières",
       "entreprise": "Horizontal Software",
-      "description": "Développement curratif et évolutif sur l'application SIRH (Système d'Information de gestion des Ressources Humaines) eConnection. Développement d'une API. Refonte graphique de l'application. Début du développement d'une application mobile en React et .NET.",
-      "tags": ["Agile", "Javascript", "C#", ".NET", "React"],
+      "description": "Développement curratif et évolutif sur l'application de GTA (Gestion des Temps et des Activités). Développement d'une API. Refonte graphique de l'application. Début du développement d'une application mobile en React et .NET.",
+      "tags": ["Agilité", "Javascript", "C#", ".NET", "React"],
       "lien":"https://www.groupehsw.com/gestion-des-temps-et-des-activites"
     },
     {
