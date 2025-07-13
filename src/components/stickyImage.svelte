@@ -92,8 +92,8 @@
 <div
   on:click={toggleThemeSelection}
   class="z-10 fixed hidden sm:block cursor-pointer theme-selection"
-  style="top: {getPathPosition($scrollPercentage).y}; left: {getPathPosition($scrollPercentage).x}; transform: rotate({getPathPosition($scrollPercentage).rotation}deg);">
-  <img src={themeImage} alt="Sticky" class="w-32 drop-shadow-2xl" />
+  style="top: {getPathPosition($scrollPercentage).y}; left: {getPathPosition($scrollPercentage).x};">
+  <img src={themeImage} alt="Sticky" class="w-32 drop-shadow-2xl" style="transform: rotate({getPathPosition($scrollPercentage).rotation}deg);"/>
   {#if themeSelectionShown}
   <div
     in:scale={{ duration: 100}}
@@ -102,7 +102,7 @@
     {#each themes as theme}
       <button 
         title="{theme.Name}"
-        class="text-xl hover:scale-110 min-w-[20px] min-h-[20px] m-1 px-1 dark:text-white text-black dark:bg-gray-600/90 bg-white/90 shadow rounded"
+        class="text-xl hover:scale-110 transition-all duration-100 min-w-[20px] min-h-[20px] m-1 px-1 border-2 dark:border-gray-700 border-light-gray-800 dark:text-white text-black dark:bg-gray-600/90 bg-white/90 shadow rounded"
         on:click={() => changeTheme(theme)}>
         {theme.emoji}
       </button>
